@@ -9,4 +9,4 @@ This calculator is based on https://studyingrabbit.tistory.com/23
 PyQt5 module
 
 ### Installation requirements
-> python -m pip install pyqt5
+<python -m pip install pyqt5>
